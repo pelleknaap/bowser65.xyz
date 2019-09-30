@@ -1,5 +1,5 @@
 # bowser65.xyz
 
-My personal website. nothing more
+My personal website. Nothing more.
 
 Style inspired from [ModestaCSS](https://github.com/AlexFlipnote/ModestaCSS)
