@@ -19,6 +19,8 @@
 .links {
   display: flex;
   margin-top: 35px;
+  flex-wrap: wrap;
+  justify-content: center;
 
   .link {
     transition: .3s;
@@ -26,8 +28,8 @@
     height: 42px;
     align-items: center;
     padding: 10px 15px;
-    margin-left: 10px;
-    margin-right: 10px;
+    margin: 10px;
+    width: 120px;
     color: #fff;
     text-decoration: none;
 
