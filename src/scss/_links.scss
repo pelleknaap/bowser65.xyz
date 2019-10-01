@@ -19,6 +19,8 @@
 .links {
   display: flex;
   margin-top: 35px;
+  flex-wrap: wrap;
+  justify-content: center;
 
   .link {
     transition: .3s;
